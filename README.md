@@ -4,6 +4,6 @@ Create virtual rooms, invite people, and share photos with lossless image qualit
 
 ⚒️ IN DEVELOPMENT
 
-## ⚙️ Tech Stack
+## 💭 General Desing
 
-![Tech](photorooms.png "Tech")
+![Desing](photorooms.png "Desing")
